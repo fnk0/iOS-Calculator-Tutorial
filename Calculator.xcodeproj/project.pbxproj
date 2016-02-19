@@ -12,6 +12,7 @@
 		2CE224CC1C77AC42002C3EA1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CE224CA1C77AC42002C3EA1 /* Main.storyboard */; };
 		2CE224CE1C77AC42002C3EA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CE224CD1C77AC42002C3EA1 /* Assets.xcassets */; };
 		2CE224D11C77AC42002C3EA1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CE224CF1C77AC42002C3EA1 /* LaunchScreen.storyboard */; };
+		2CE224E61C77AF7B002C3EA1 /* images in Resources */ = {isa = PBXBuildFile; fileRef = 2CE224E51C77AF7B002C3EA1 /* images */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2CE224CD1C77AC42002C3EA1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2CE224D01C77AC42002C3EA1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2CE224D21C77AC42002C3EA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2CE224E51C77AF7B002C3EA1 /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		2CE224C51C77AC42002C3EA1 /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
+				2CE224E51C77AF7B002C3EA1 /* images */,
 				2CE224C61C77AC42002C3EA1 /* AppDelegate.swift */,
 				2CE224C81C77AC42002C3EA1 /* ViewController.swift */,
 				2CE224CA1C77AC42002C3EA1 /* Main.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2CE224E61C77AF7B002C3EA1 /* images in Resources */,
 				2CE224D11C77AC42002C3EA1 /* LaunchScreen.storyboard in Resources */,
 				2CE224CE1C77AC42002C3EA1 /* Assets.xcassets in Resources */,
 				2CE224CC1C77AC42002C3EA1 /* Main.storyboard in Resources */,
