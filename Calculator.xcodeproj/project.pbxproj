@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C8AA92A1C876EC800E304CD /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 2C8AA9291C876EC800E304CD /* README.md */; };
 		2CE224C71C77AC42002C3EA1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CE224C61C77AC42002C3EA1 /* AppDelegate.swift */; };
 		2CE224C91C77AC42002C3EA1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CE224C81C77AC42002C3EA1 /* ViewController.swift */; };
 		2CE224CC1C77AC42002C3EA1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CE224CA1C77AC42002C3EA1 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2C8AA9291C876EC800E304CD /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		2CE224C31C77AC42002C3EA1 /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CE224C61C77AC42002C3EA1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2CE224C81C77AC42002C3EA1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				2CE224CD1C77AC42002C3EA1 /* Assets.xcassets */,
 				2CE224CF1C77AC42002C3EA1 /* LaunchScreen.storyboard */,
 				2CE224D21C77AC42002C3EA1 /* Info.plist */,
+				2C8AA9291C876EC800E304CD /* README.md */,
 			);
 			path = Calculator;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C8AA92A1C876EC800E304CD /* README.md in Sources */,
 				2CE224C91C77AC42002C3EA1 /* ViewController.swift in Sources */,
 				2CE224C71C77AC42002C3EA1 /* AppDelegate.swift in Sources */,
 			);
@@ -288,6 +292,7 @@
 				2CE224D71C77AC42002C3EA1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
